@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="unsw.archaic_fs.ArchaicFsTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2023-03-05T16:43:09" hostname="vx12" time="0.082">
+  <properties/>
+  <testcase name="testCdInvalidDirectory()" classname="unsw.archaic_fs.ArchaicFsTest" time="0.044"/>
+  <testcase name="testWriteToFileFileAppend()" classname="unsw.archaic_fs.ArchaicFsTest" time="0.01"/>
+  <testcase name="testReadFromFileNotExists()" classname="unsw.archaic_fs.ArchaicFsTest" time="0.002"/>
+  <testcase name="testWriteToFileFileWithNewFile()" classname="unsw.archaic_fs.ArchaicFsTest" time="0.001"/>
+  <testcase name="testWriteToFileFileWrongArgs()" classname="unsw.archaic_fs.ArchaicFsTest" time="0.001"/>
+  <testcase name="testWriteToFileFileExists()" classname="unsw.archaic_fs.ArchaicFsTest" time="0.002"/>
+  <testcase name="testMkdir()" classname="unsw.archaic_fs.ArchaicFsTest" time="0.005"/>
+  <testcase name="testWriteToFileFileNotExists()" classname="unsw.archaic_fs.ArchaicFsTest" time="0.001"/>
+  <testcase name="testCdAroundPaths2()" classname="unsw.archaic_fs.ArchaicFsTest" time="0.004"/>
+  <testcase name="testCreateFile()" classname="unsw.archaic_fs.ArchaicFsTest" time="0.001"/>
+  <testcase name="testCdValidDirectory()" classname="unsw.archaic_fs.ArchaicFsTest" time="0.001"/>
+  <testcase name="testCdAroundPaths()" classname="unsw.archaic_fs.ArchaicFsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
